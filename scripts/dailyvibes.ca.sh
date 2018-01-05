@@ -27,7 +27,7 @@ rm -rf *
 cp -R /tmp/dailyvibes.ca/* .
 
 # We need a CNAME file for GitHub
-# echo "dailyvibes.ca" > "CNAME"
+echo "dailyvibes.ca" > "CNAME"
 
 # Commit all the changes and push it to the remote
 git add -A
