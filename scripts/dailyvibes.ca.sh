@@ -24,7 +24,7 @@ git checkout gh-pages
 # no going back now #
 #####################
 rm -rf *
-cp -R /tmp/getaclue.me/* .
+cp -R /tmp/dailyvibes.ca/* .
 
 # We need a CNAME file for GitHub
 # echo "dailyvibes.ca" > "CNAME"
