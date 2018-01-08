@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Resources
+permalink: /resources/
 ---
 
 Daily Vibes began its life scattered throughout the web. So, I will try to organize all of the content in one area eventually. For now, you can follow Daily Vibes's history and development through the following content:
