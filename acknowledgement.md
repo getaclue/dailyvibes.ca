@@ -10,6 +10,12 @@ I sincerely hope that you enjoy using Daily Vibes. However, Daily Vibes would no
 
 I am extremely grateful for your support and for giving me an opportunity to make this.
 
+## Translations
+If you'd like to help out or correct, feel free to do so [here](https://poeditor.com/join/project/8PKqoRxv53). Thanks to the following contributors for making this project accessible to more people:
+- [Dima](https://twitter.com/fztsh)
+- [Richard Blechinger](http://www.blechi.at/)
+- [Marc Köhlbrugge](https://twitter.com/marckohlbrugge)
+
 ## Libraries
 Daily Vibes includes open-source components:
 - [Charts](https://github.com/danielgindi/Charts) for displaying dashboards
