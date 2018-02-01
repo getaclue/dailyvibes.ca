@@ -15,6 +15,7 @@ If you'd like to help out or correct, feel free to do so [here](https://poeditor
 - [Dima](https://twitter.com/fztsh)
 - [Richard Blechinger](http://www.blechi.at/)
 - [Marc Köhlbrugge](https://twitter.com/marckohlbrugge)
+- [Ricardo Rojo](https://twitter.com/ricardorojor)
 
 ## Libraries
 Daily Vibes includes open-source components:
