@@ -39,5 +39,5 @@ layout: landing
 
 You CAN improve YOUR life
 
-[![Download](https://cdn-pro.dprcdn.net/files/acc_603419/ibqgk)](https://geo.itunes.apple.com/app/id1332324033)
+<a href="https://geo.itunes.apple.com/app/id1332324033" title="Download of the App Store"><img src="https://cdn-pro.dprcdn.net/files/acc_603419/ibqgk" alt="Download of the App Store"></a>
 </center>
