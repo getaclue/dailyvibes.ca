@@ -36,8 +36,6 @@ layout: landing
 
 <center>
 <h1>Daily Vibes</h1>
-
-You CAN improve YOUR life
-
+<h2>You CAN improve YOUR life</h2>
 <a href="https://geo.itunes.apple.com/app/id1332324033" title="Download of the App Store"><img src="https://cdn-pro.dprcdn.net/files/acc_603419/ibqgk" alt="Download of the App Store"></a>
 </center>
