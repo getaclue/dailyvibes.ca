@@ -2,6 +2,7 @@
 layout: landing
 ---
 <center>
+<h1>Daily Vibes: Life Task Manager</h1>
 <svg width="50%" height="50%" viewBox="0 0 196 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
@@ -35,7 +36,14 @@ layout: landing
 </center>
 
 <center>
-<h1>Daily Vibes</h1>
-<h2>You CAN improve YOUR life</h2>
-<a href="https://geo.itunes.apple.com/app/id1332324033" title="Download of the App Store"><img src="https://cdn-pro.dprcdn.net/files/acc_603419/ibqgk" alt="Download of the App Store"></a>
+<h2>Join the next wave of productivity tools</h2>
+<p>
+<a href="https://geo.itunes.apple.com/app/id1332324033" title="Download of the App Store"><img src="/assets/appstore.svg" alt="Download of the App Store"></a>
+</p>
+<h3>because the current tools are boring</h3>
+<p>
+<em>
+"Your time is limited, don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living the result of other people’s thinking. Don’t let the noise of other opinions drown your own inner voice. And most important, have the courage to follow your heart and intuition, they somehow already know what you truly want to become. Everything else is secondary." - Steve Jobs
+</em>
+</p>
 </center>
